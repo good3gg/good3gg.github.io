@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Search"
+    url: https://good3gg.github.io/search
+   - title: "About"
+     url: https://good3gg.github.io/search/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Sitemap"
+     url: /sitemap/
